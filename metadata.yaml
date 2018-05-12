@@ -1,0 +1,36 @@
+_repo: In-the-Old-West_46328
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ruxton, George Frederick Augustus
+    alias: Ruxton, George F. (George Frederick Augustus)
+    birthdate: 1820
+    deathdate: 1848
+    gutenberg_agent_id: '43724'
+    url: http://www.gutenberg.org/2009/agents/43724
+  editor:
+    agent_name: Kephart, Horace
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '35425'
+    url: http://www.gutenberg.org/2009/agents/35425
+description: ''
+gutenberg_issued: '2014-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46328'
+  lccn: '15006234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting -- United States'
+- !lcc 'F590.3'
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcsh 'West (U.S.) -- Description and travel'
+title: In the Old West
+url: http://www.gutenberg.org/ebooks/46328
